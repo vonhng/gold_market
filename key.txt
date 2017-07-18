@@ -1,0 +1,12 @@
+def change(list):
+	l = []
+	ll = []
+	c =''
+	for i in list:
+		j = ord(i)+2
+		l.append(j)
+	for x in l:
+		a = chr(x)
+		ll.append(a)
+	c = ''.join(ll)
+	return c
