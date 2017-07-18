@@ -9,7 +9,7 @@ import json, urllib
 #----------------------------------
 def main():
     #配置申请的APPKey
-    appkey = "7df21bec5bed1d475e818fd9335ad82d"
+    appkey = '9fh43dge7dgf3f697g:3:hf;557cf:4f'
  
     #1.上海黄金交易所
     request1(appkey,"GET")
