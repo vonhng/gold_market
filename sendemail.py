@@ -12,7 +12,7 @@ from email.utils import parseaddr, formataddr
 # 邮箱的第三方服务
 mail_host = 'smtp.qq.com'
 mail_user = '615873982@qq.com'
-mail_pass = 'rlauwsmjivhwbcii'
+mail_pass = '***'
 
 # '''我们编写了一个函数_format_addr()来格式化一个邮件地址。注意不能简单地传入name <addr@example.com>，
 #     因为如果包含中文，需要通过Header对象进行编码。
